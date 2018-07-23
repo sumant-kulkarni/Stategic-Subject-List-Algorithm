@@ -123,7 +123,7 @@ features_final =  pd.get_dummies(features_minmax_transform)
 # Split the 'features' into training and testing sets
 X_train, X_test, y_train, y_test = train_test_split(features_final, 
                                                     outcomes, 
-                                                    test_size = 0.5, 
+                                                    test_size = 0.7, 
                                                     random_state = 0)
 
 
