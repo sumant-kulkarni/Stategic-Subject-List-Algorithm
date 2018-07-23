@@ -1,5 +1,5 @@
-# Strategic-Subject-List-Algorithm
-Algorithm to match Chicago - Strategic Subject List Score
+# Stochastic Gradient Descent besed Regressor for Strategic Subject List Algorithm
+Algorithm to match Chicago - Strategic Subject List Score - using SGDRegressor
 
 **Strategic Subject Algorithm:**
 Chicago Police have published a list which represents a de-identified listing of arrest data from August 1, 2012 to July 31, 2016, that is used by the Chicago Police Department’s Strategic Subject Algorithm, created by the Illinois Institute of Technology and funded through a Department of Justice Bureau of Justice Assistance grant, to create a risk assessment score known as the Strategic Subject List or “SSL.” These scores reflect an individual’s probability of being involved in a shooting incident either as a victim or an offender. Scores are calculated and placed on a scale ranging from 0 (extremely low risk) to 500 (extremely high risk).
